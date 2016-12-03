@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/12/3 22:20:32。
+     1>项目“c:\Users\cfinsbear\documents\visual studio 2012\Projects\LoadXML\LoadXML\LoadXML.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Customer.cpp main.cpp
+         main.cpp
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(16): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\cfinsbear\documents\visual studio 2012\projects\loadxml\loadxml\main.cpp(16): warning C4101: “j”: 未引用的局部变量
+         Customer.cpp
+         正在生成代码...
+       Link:
+         D:\visual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\cfinsbear\documents\visual studio 2012\Projects\LoadXML\Debug\LoadXML.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\cfinsbear\documents\visual studio 2012\Projects\LoadXML\Debug\LoadXML.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\cfinsbear\documents\visual studio 2012\Projects\LoadXML\Debug\LoadXML.lib" /MACHINE:X86 Debug\Customer.obj
+         Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         LoadXML.vcxproj -> c:\users\cfinsbear\documents\visual studio 2012\Projects\LoadXML\Debug\LoadXML.exe
+     1>已完成生成项目“c:\Users\cfinsbear\documents\visual studio 2012\Projects\LoadXML\LoadXML\LoadXML.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.34
